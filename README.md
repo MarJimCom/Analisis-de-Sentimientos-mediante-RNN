@@ -1,5 +1,7 @@
 # Analisis-de-Sentimientos-mediante-RNN
-Creación de varios modelos para clasificación de polaridad y clasificación de emociones.
+
+Creación de varios modelos para clasificación de polaridad y clasificación de emociones. En concreto, el cuaderno está ejecutado para el modelo CNN + LSTM y clasificación binaria.
+
 
 Las referencias utilizadas para elaborar el código principalmente son:
 
