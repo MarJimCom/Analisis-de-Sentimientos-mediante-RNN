@@ -27,3 +27,7 @@ agosto de 2022, desde https://www.kaggle.com/code/deepakvedantam/emotion-classif
 Network for Sentiment Analysis of Short Texts. Proceedings of COLING 2016, the 26th
 International Conference on Computational Linguistics: Technical Papers, 2428‐2437.
 Consultado el 8 de agosto de 2022, desde https://aclanthology.org/C16-1229/
+
+8. Brownlee, J. (2018b, 6 de diciembre). A gentle introduction to early stopping to avoid over‐
+training neural networks [Machine learning mastery]. Consultado el 13 de agosto
+de 2022, desde https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
